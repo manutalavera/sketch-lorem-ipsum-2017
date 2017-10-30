@@ -8,7 +8,7 @@
         "run" : "onRun"
       },
       "identifier" : "com.baylaunch.lorem.run",
-      "shortcut" : "shift ctrl l"
+      "shortcut" : "shift ctrl t"
     }
   ],
   "menu" : {
